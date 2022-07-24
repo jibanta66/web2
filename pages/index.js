@@ -83,7 +83,7 @@ const Home = () => (
           passion for building and Working on new projects,I provide a digital services 
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. Checkout my portfolio to know  more 
-          about my work. "you can hire me through my-contact.  "
+          about my work. "you can hire me through my-contact.
         
           <NextLink href="/works/inkdrop" passHref scroll={false}>
             <Link>Inkdrop</Link>
