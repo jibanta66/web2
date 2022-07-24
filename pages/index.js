@@ -85,7 +85,6 @@ const Home = () => (
           way to solving real-life problems with code. When not online, he loves
           hanging out with his camera. Currently, he is living off of his own
           product called{' '}
-
           <NextLink href="/works/inkdrop" passHref scroll={false}>
             <Link>Inkdrop</Link>
           </NextLink>
